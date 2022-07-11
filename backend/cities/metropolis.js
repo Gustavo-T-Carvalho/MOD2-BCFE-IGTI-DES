@@ -1,0 +1,58 @@
+let metropolis = {
+  id: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+  name: 'Metropolis',
+  votingPopulation: 1107096,
+  absence: 99638,
+  presence: 1007458,
+  elections: [
+    {
+      id: '2572e7f0-0865-47b0-98cc-2ad426d8bd51',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '187b1c0c-887f-41e2-a5de-00231191a468',
+      votes: 369682,
+      candidateName: 'Superman',
+    },
+    {
+      id: 'a5327230-899d-48b5-831a-5d53c9b926f7',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '87eed362-e4a8-4e67-9bfd-1f4cd35491a6',
+      votes: 201491,
+      candidateName: 'Antman',
+    },
+    {
+      id: '2ad2d44a-cbf0-4a4d-8816-07723b20bddd',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '4fc98a0b-4a1d-426b-8324-25c665a56111',
+      votes: 128954,
+      candidateName: 'Aquaman',
+    },
+    {
+      id: 'c5fef307-c78b-4cd5-8782-5278d874628d',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '1692e359-02a1-4a93-ac73-abca70251935',
+      votes: 101281,
+      candidateName: 'BlackWidow',
+    },
+    {
+      id: 'b22869ba-0d07-4297-98be-f649a67b3ee5',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '763e3a75-8e48-4298-a7c4-5a8a59ed70dc',
+      votes: 81241,
+      candidateName: 'Batman',
+    },
+    {
+      id: 'f9273068-33a4-456b-967f-84f3ce0abbcf',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: 'bded7e2b-a580-4e3d-b587-9e83fa2b5097',
+      votes: 79118,
+      candidateName: 'Flash',
+    },
+    {
+      id: '93d61be3-4f4d-4800-9418-0f80c6155762',
+      cityId: 'bfb650fc-ff1c-41ce-92ba-372c43cb21e5',
+      candidateId: '2fe23a92-9fd2-4b58-9c3c-dcc230a77106',
+      votes: 45691,
+      candidateName: 'GreenLantern',
+    },
+  ],
+};

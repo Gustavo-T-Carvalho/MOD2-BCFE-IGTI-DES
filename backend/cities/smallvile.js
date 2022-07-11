@@ -1,0 +1,51 @@
+let smallvile = {
+  id: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+  name: 'Smallville',
+  votingPopulation: 1648006,
+  absence: 98880,
+  presence: 1549126,
+  elections: [
+    {
+      id: '689c6891-1ac3-424b-ae9c-78c827164004',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '2c7ff125-0518-4397-b0de-727d47914131',
+      votes: 580396,
+      candidateName: 'Thor',
+    },
+    {
+      id: '6a6fa27e-41e2-47f7-921f-bf1188b8e9c9',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '3465d8bd-b643-46e2-9781-56246040b1f3',
+      votes: 226482,
+      candidateName: 'CaptainAmerica',
+    },
+    {
+      id: '7270081c-59de-445d-a34d-0ffc729b3a8d',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '1f7954dc-c31c-4f29-8046-bb86ea96fb31',
+      votes: 221153,
+      candidateName: 'CaptainMarvel',
+    },
+    {
+      id: 'bab20ec3-5595-49eb-8915-b952ed581a37',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '4fc98a0b-4a1d-426b-8324-25c665a56111',
+      votes: 216877,
+      candidateName: 'Aquaman',
+    },
+    {
+      id: '3ba6db6b-d02a-4bc7-b9da-f32a3152180c',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '2fe23a92-9fd2-4b58-9c3c-dcc230a77106',
+      votes: 168076,
+      candidateName: 'GreenLantern',
+    },
+    {
+      id: '09194903-aafb-402e-8e5f-305bece66fbb',
+      cityId: 'd2dab6a2-3029-45a5-89f2-fcbaee387758',
+      candidateId: '32cce90d-b2ef-47da-9ec5-13b5078c94a3',
+      votes: 136142,
+      candidateName: 'SpiderMan',
+    },
+  ],
+};

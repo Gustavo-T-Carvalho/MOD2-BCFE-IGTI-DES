@@ -1,0 +1,58 @@
+let gotham = {
+  id: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+  name: 'Gotham',
+  votingPopulation: 1859005,
+  absence: 185900,
+  presence: 1673105,
+  elections: [
+    {
+      id: 'bb1759c8-455e-4ead-a066-c7939e7cbe20',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '2c7ff125-0518-4397-b0de-727d47914131',
+      votes: 622003,
+      candidateName: 'Thor',
+    },
+    {
+      id: 'd2d8d0ac-9b69-4be1-9355-c74d276726bb',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '87eed362-e4a8-4e67-9bfd-1f4cd35491a6',
+      votes: 334621,
+      candidateName: 'Antman',
+    },
+    {
+      id: 'c1e6e57e-6dd5-4793-8237-8e4ee882f428',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '1f7954dc-c31c-4f29-8046-bb86ea96fb31',
+      votes: 164901,
+      candidateName: 'CaptainMarvel',
+    },
+    {
+      id: '64c3b0c4-c51d-4061-af59-18b3cc65482f',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '4fc98a0b-4a1d-426b-8324-25c665a56111',
+      votes: 160618,
+      candidateName: 'Aquaman',
+    },
+    {
+      id: 'e24be34c-922c-4932-9211-8c5ce882c0af',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: 'bded7e2b-a580-4e3d-b587-9e83fa2b5097',
+      votes: 151944,
+      candidateName: 'Flash',
+    },
+    {
+      id: '526668ee-dc5f-427a-b82e-b24946cff3e5',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '2fe23a92-9fd2-4b58-9c3c-dcc230a77106',
+      votes: 120542,
+      candidateName: 'GreenLantern',
+    },
+    {
+      id: 'b89ae529-9638-4eb2-9510-4749b146fee1',
+      cityId: '680df3f5-c5bf-48ae-bda0-5b667fd89197',
+      candidateId: '187b1c0c-887f-41e2-a5de-00231191a468',
+      votes: 118476,
+      candidateName: 'Superman',
+    },
+  ],
+};
